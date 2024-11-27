@@ -1,5 +1,8 @@
 python == 3.11.6
-!unzip ./converted_keras.zip
+#!unzip ./converted_keras.zip
 !pip install Pillow==9.1.0
 !pip install tensorflow==2.15.0
 !pip install keras==2.15.0
+!pip install discord.py
+!pip install numpy
+!pip install requests
